@@ -1,5 +1,5 @@
 {
-  "name": "react-selectable-fast-ahri",
+  "name": "@ahri-core/react-selectable-fast",
   "version": "1.0.0",
   "description": "Enable other React components to be selectable by drawing a box with your mouse/touch",
   "repository": {
