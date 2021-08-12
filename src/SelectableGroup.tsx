@@ -695,6 +695,7 @@ export class SelectableGroup extends Component<TSelectableGroupProps> {
       )
 
       onSelectionFinish!([...this.selectedItems], this.clickedItem)
+      this.clickedItem = undefined
 
       if (evt.which === 1) {
         this.preventEvent(evt.target, 'click')
