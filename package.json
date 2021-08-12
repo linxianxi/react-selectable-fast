@@ -35,7 +35,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/valerybugakov/react-selectable-fast/issues"
+    "url": "https://github.com/linxianxi/react-selectable-fast/issues"
   },
   "engines": {
     "node": ">8.0.0"
@@ -51,16 +51,16 @@
     "touch",
     "react"
   ],
-  "author": "Valery Bugakov <skymk1@gmail.com> (https://github.com/valerybugakov/)",
+  "author": "linxianxi (https://github.com/linxianxi/)",
   "contributors": [
-    "Valery Bugakov <skymk1@gmail.com> (https://github.com/valerybugakov/)"
+    "linxianxi (https://github.com/linxianxi/)"
   ],
   "license": "MIT",
   "files": [
     "lib",
     "dist"
   ],
-  "homepage": "https://github.com/valerybugakov/react-selectable-fast#readme",
+  "homepage": "https://github.com/linxianxi/react-selectable-fast#readme",
   "directories": {
     "example": "example"
   },
